@@ -21,7 +21,8 @@ Claude works, barks when a task is done, and reminds you to take a break.
 
 - **Reacts to Claude Code.** Nemo walks while a session works, and her bubble says what it is doing (`EDITING`,
   `RUNNING`…). When a session finishes she barks with the project's name. When Claude waits for you, she asks `?`.
-  It works with several sessions at once.
+  It works with several sessions at once, in the terminal, the Claude desktop app's Code tab or an IDE extension
+  (local sessions; not the chat or Claude Code on the web).
 - **Claude window.** One card per open session: the model, the context bar, tokens and a cost estimate, plus
   today's summary across every session.
 - **Pomodoro.** Focus and breaks, with the countdown in her bubble next to what Claude is doing, and today's minutes
